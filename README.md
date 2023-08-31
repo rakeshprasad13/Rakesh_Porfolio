@@ -15,5 +15,7 @@ The non-placholder applications will take the user to my github page for that ap
 The page was styled for multiple screen sizes, including tablets and mobile phones.
 I have also included some on hover effects for the various links and the projects on the page.
 
+Link to the deployed application : https://rakeshprasad13.github.io/Rakesh_Portfolio/
+
 Screenshot of My Protolio page :
 ![Alt text](image-1.png)
